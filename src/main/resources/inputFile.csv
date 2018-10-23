@@ -1,0 +1,10 @@
+LineNumber;OrderItemId;OrderId;BuyerName;BuyerEmail;Address;Postcode;SalePrice;ShippingPrice;SKU;Status;OrderDate
+1;14;20;Kate Tailor;kate.t@example.com;Chicago, Lake street 33;12623;0.75;0.00;SKRT_S;OUT_OF_STOCK;2017-11-14
+2;14;20;Kate Tailor;kate.t@example.com;Chicago, Lake street 33;12623;0.74;0.00;SKRT_S;OUT_OF_STOCK;2017-11-14
+3;10;21;Jack Black;jack.black@example.com;London, Baker street 3;12621;1.00;0.50;TSHRT_XL;IN_STOCK;2018-02-25
+4;13;21;Jack Black;jack.black@example.com;London, Baker street 3;12621;3.00;0.50;TSHRT_XL;IN_STOCK;2018-02-25
+5;11;23;Peter Parker;peter.parker@example.com;New York, Wall street 12;12622;0.25;1.00;SPDRMN_L;IN_STOCK;
+6;12;24;Joe Bigger;empty@example.com;New York, Wall street 45;12622;5.41;1.23;TSHRT_L;IN_STOCK;
+7;17;25;Kiss Péter;kiss.petiAexample.hu;Pécs, Nagy utca 4;7622;1.00;4.00;FTBLL_WHT;IN_STOCK;2018-07-16
+8;14;26;Nagy Júla;julia.nagy@example.hu;Budapest, Ferenc körút 4;78.2;1.27;3.50;BOOK_JKR;IN_STOCK;2018-08-10
+9;16;26;Nagy Júla;julia.nagy@example.hu;Budapest, Ferenc körút 4;1092;1.27;3.50;BOOK_JKR;IN_STOCK;2018.08-10
